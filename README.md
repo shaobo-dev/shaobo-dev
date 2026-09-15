@@ -12,8 +12,8 @@ Java 后端开发方向，主要做 Spring Boot / SSM 相关的 Web 应用，同
 
 | 项目 | 说明 | 技术栈 |
 | --- | --- | --- |
-| [影院票务系统](https://github.com/TummyGitHub/ssmdianying) | 前台在线购票 + 后台管理，含影片、场次、放映厅、订单、退票等模块 | Spring · SpringMVC · MyBatis · Layui · JSP · MySQL |
-| [springboot-demo](https://github.com/TummyGitHub/springboot-demo) | Spring Boot 3 后端项目模板，可直接作为新项目起手骨架 | Spring Boot 3 · Java 17 · Maven |
+| [影院票务系统](https://github.com/shaobo-dev/ssmdianying) | 前台在线购票 + 后台管理，含影片、场次、放映厅、订单、退票等模块 | Spring · SpringMVC · MyBatis · Layui · JSP · MySQL |
+| [springboot-demo](https://github.com/shaobo-dev/springboot-demo) | Spring Boot 3 后端项目模板，可直接作为新项目起手骨架 | Spring Boot 3 · Java 17 · Maven |
 
 ### 关于这个账号
 
@@ -21,5 +21,5 @@ Java 后端开发方向，主要做 Spring Boot / SSM 相关的 Web 应用，同
 
 ### 联系方式
 
-- GitHub：[@TummyGitHub](https://github.com/TummyGitHub)
+- GitHub：[@shaobo-dev](https://github.com/shaobo-dev)
 - Email：2969973284@qq.com
